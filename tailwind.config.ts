@@ -9,11 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        bg_color: "#F9F9F9",
         sinc_black: "#212121",
         sinc_btn: "#20888F",
         apply_btn: "#303030",
         small_text: "#4E4E4E",
-        black_caad: "#303030",
+        black_card: "#303030",
         orange_card: "#F47733",
         pink_carrd: "#FF78BF",
         blue_card: "#20888F",
