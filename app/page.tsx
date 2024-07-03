@@ -3,11 +3,8 @@ import Sinc from "./home/page";
 
 export default function Home() {
   return (
-    <main className="">
-
-    <Sinc />
-    
-      
-    </main>
+    <div className="">
+      <Sinc />
+    </div>
   );
 }

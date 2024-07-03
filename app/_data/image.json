@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "SINC Partners is a service incubation company ",
+    "body": "Connecting experts in product development and growth marketing willing to offer their services to amazing startups in exchange for minute equity (usually 0.5% to 2%).",
+    "imageUrl": "https://res.cloudinary.com/dwtjcpszy/image/upload/v1719577917/hero2_hh8czp.png",
+    "tags": false
+  },
+
+  {
+    "id": 2,
+    "title": "Come with an idea, leave with a company.",
+    "body": "You, alongside seasoned service partners and investors, expedite the growth and market entry of your startup.",
+    "imageUrl": "https://res.cloudinary.com/dwtjcpszy/image/upload/v1719577922/hero3_qvzcio.png",
+    "tags": false
+  },
+  {
+    "id": 3,
+    "title": "We are big on these 3 things;  ",
+    "body": "✓ Service Incubation & Ecosystem Advocacy ✓ Building SAAS & Marketing Tech Platforms ✓ Institutional Innovations",
+    "imageUrl": "https://res.cloudinary.com/dwtjcpszy/image/upload/v1719577529/Frame_49221_cqsbyi.png",
+    "tags": true
+  }
+]
